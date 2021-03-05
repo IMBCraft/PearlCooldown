@@ -1,0 +1,10 @@
+name: PearlCooldown
+main: net.cyberflame.pearlcooldown.PearlCooldown
+version: 1.0
+description: Enderpearl cooldowns
+author: CyberFlame
+commands:
+  pearlcooldown:
+    description: Reloads the plugin.
+    permission: pearlcooldown.reload
+    aliases: [epearlsreload]
